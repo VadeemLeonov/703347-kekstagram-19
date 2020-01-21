@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Вадим Леонов](https://up.htmlacademy.ru/javascript/19/user/703347).
-* Наставник: `Неизвестно`.
+* Наставник: `<Без наставника`.
 
 ---
 
